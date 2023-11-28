@@ -6,6 +6,7 @@ public class FirstClass {
 
 		System.out.println("this is first class method ");
 		System.out.println("this is secondPUsh class method ");
+		System.out.println("this is third PUsh");
 	}
 
 }
